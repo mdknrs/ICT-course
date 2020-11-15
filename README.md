@@ -1,5 +1,5 @@
 # ICT-course
 
 
-![ERD] (Database ER diagram (crow's foot).png)
+![ERD] (https://github.com/mdknrs/ICT-course/blob/main/Database%20ER%20diagram%20(crow's%20foot).png)
 
